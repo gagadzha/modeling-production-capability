@@ -24,10 +24,12 @@ dependencies:
   - contourpy=1.2.0=py311h48ca7d4_0
   - cryptography=41.0.7=py311hd4332d6_0
   - cycler=0.11.0=pyhd3eb1b0_0
+  - dateutils=0.6.12=py311hca03da5_0
   - debugpy=1.6.7=py311h313beb8_0
   - decorator=5.1.1=pyhd8ed1ab_0
   - dill=0.3.7=py311hca03da5_0
   - docutils=0.18.1=py311hca03da5_3
+  - et_xmlfile=1.1.0=py311hca03da5_0
   - exceptiongroup=1.2.0=pyhd8ed1ab_0
   - executing=2.0.1=pyhd8ed1ab_0
   - fonttools=4.25.0=pyhd3eb1b0_0
@@ -99,6 +101,7 @@ dependencies:
   - numpydoc=1.5.0=py311hca03da5_0
   - oniguruma=6.9.7.1=h1a28f6b_0
   - openjpeg=2.3.0=h7a6adac_2
+  - openpyxl=3.0.10=py311h80987f9_0
   - openssl=3.0.12=h1a28f6b_0
   - packaging=23.1=py311hca03da5_0
   - pandarallel=1.6.4=py311hca03da5_0
@@ -165,6 +168,7 @@ dependencies:
   - wcwidth=0.2.12=pyhd8ed1ab_0
   - wheel=0.41.2=py311hca03da5_0
   - widgetsnbextension=4.0.5=py311hca03da5_0
+  - xlsxwriter=3.1.1=py311hca03da5_0
   - xz=5.4.5=h80987f9_0
   - yaml=0.2.5=h1a28f6b_0
   - zeromq=4.3.4=hc377ac9_0
