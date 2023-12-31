@@ -146,6 +146,9 @@ dmypy.json
 # Ignore data directory
 data/output
 
+# Ignore trials directory
+trials
+
 # Pyre type checker
 .pyre/
 
