@@ -1,5 +1,7 @@
 # Modeling production capability using Pandas and Scipy
 
+## Link to Github: https://github.com/gagadzha/modeling-production-capability
+
 ## Folder Structure
 
 The project's folder structure is organized as follows:
