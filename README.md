@@ -1,12 +1,27 @@
-# modeling-production-capability
- This exercise involves analyzing production data from various factories across multiple cities. The goal is to develop a model that can probabilistically predict future production amounts. The given data is for two factories: Brussels (BRU) and Stockholm (STO)
+# Modeling production capability using Pandas and Numpy
+This exercise involves analyzing production data from various factories across multiple cities. The goal is to develop a model that can probabilistically predict future production amounts. The given data is for two factories: Brussels (BRU) and Stockholm (STO)
 
- # Folder structure 
+ # Folder structure:
+ 
  ## data folder
-  In the daily-production folder we have two directories with JSON data from both factories which we will use as input for our analysis. 
+  In the data/daily-production folder we have two directories with JSON data from both factories which we will use as input for our analysis. 
 
  ## output
-  I created an ouput folder which writes the excel files with the various data we want to output
+  I created an data/output folder which writes the excel files with the various data we want to output
+
+ ## docs
+  Files with the original assignment in markdown format
+
+ ## trials
+  Here are some Jupyter notebooks with trials of code before 'final.ipynb' was created 
+
+ ## Jupyter notebook
+  The 'final.ipynb' notebook has all the codes needed for this project
+
+ ## production.yml 
+  This is the conda environment file with necessary packages to run 'final.ipynb'
+
+  
 
 
 # Code structure: 
@@ -80,8 +95,6 @@ The `fit_test_plot` function visually compares the original data distribution wi
 
 ## 9. Main code 
 
-Certainly! Here's a summary of the code in bullet points:
-
 - **Data Preparation:**
   - Generates sample production data.
   - Cleans data for Brussels (BRU) and Stockholm (STO).
@@ -102,3 +115,5 @@ Certainly! Here's a summary of the code in bullet points:
   - Clearly displays statistical analysis and production predictions. 
 
 This structured approach combines statistical analysis, data visualization, and predictive modeling to provide comprehensive insights into production data.
+
+
