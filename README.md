@@ -119,9 +119,11 @@ This structured approach combines statistical analysis, data visualization, and 
 The end result should look like this:
 
 ##For Brussels: 
+
 ![Alt text](data/output/output_BRU.png)
 
 ##For Stockholm:
+
 ![Alt text](data/output/output_STO.png)
 
 
