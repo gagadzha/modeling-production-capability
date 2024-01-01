@@ -116,4 +116,9 @@ The `fit_test_plot` function visually compares the original data distribution wi
 
 This structured approach combines statistical analysis, data visualization, and predictive modeling to provide comprehensive insights into production data.
 
+The end result should look like this:
+
+![Alt text](data/output/output_BRU.png)
+![Alt text](data/output/output_STO.png)
+
 
