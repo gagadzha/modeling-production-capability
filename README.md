@@ -1,4 +1,4 @@
-# Data Analysis and Simulation
+# Modeling production capability using Pandas and Scipy
 
 ## Folder Structure
 
