@@ -10,6 +10,8 @@ The project's folder structure is organized as follows:
 
 - **trials**: Contains code snippets and earlier trial notebooks.
 
+- **docs**: Contains the original assignment as markdown-file.
+
 - **final.ipynb**: The final Jupyter Notebook file combining all code snippets and results.
 
 - **production.yml**: Conda Python environment file specifying the project's environment and dependencies.
