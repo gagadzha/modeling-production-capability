@@ -1,5 +1,7 @@
 # Modeling production capability using Pandas and Scipy
 
+## Link to Github: https://github.com/gagadzha/image-manipulation-with-numpy
+
 ## Folder Structure
 
 The project's folder structure is organized as follows:
