@@ -1,6 +1,10 @@
 # Modeling production capability using Pandas and Scipy
 
+<<<<<<< HEAD
 ## Link to Github: https://github.com/gagadzha/image-manipulation-with-numpy
+=======
+## Link to Github: https://github.com/gagadzha/modeling-production-capability
+>>>>>>> 480762d0a28a0c8569c8cb372dea1c7e5dd6e88e
 
 ## Folder Structure
 
